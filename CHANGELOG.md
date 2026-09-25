@@ -10,8 +10,7 @@ Dates use YYYY-MM-DD.
 - Smart plug installed on node circuit
 - Pre-launch power baseline
 - First week of consumption data (CSV)
-- Data dictionary
-- Methodology note
+
 
 ## [Phase 1] - 2026-09-25
 
@@ -19,3 +18,5 @@ Dates use YYYY-MM-DD.
 - Repository created
 - README with purpose, measurement scope, and data format
 - CC BY 4.0 license
+- Data dictionary
+- Methodology note
